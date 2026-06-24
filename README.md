@@ -12,3 +12,5 @@ echo text
 exit
 
 init project structure
+
+Project finished and tested
