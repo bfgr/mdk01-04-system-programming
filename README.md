@@ -10,3 +10,5 @@ Client → dotnet run
 time
 echo text
 exit
+
+init project structure
